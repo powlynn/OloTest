@@ -1,0 +1,8 @@
+c:\users\joepoulin\documents\visual studio 2015\Projects\OloTest\OloTest\bin\Debug\OloTest.exe.config
+c:\users\joepoulin\documents\visual studio 2015\Projects\OloTest\OloTest\bin\Debug\OloTest.exe
+c:\users\joepoulin\documents\visual studio 2015\Projects\OloTest\OloTest\bin\Debug\OloTest.pdb
+c:\users\joepoulin\documents\visual studio 2015\Projects\OloTest\OloTest\bin\Debug\Newtonsoft.Json.dll
+c:\users\joepoulin\documents\visual studio 2015\Projects\OloTest\OloTest\bin\Debug\Newtonsoft.Json.xml
+c:\users\joepoulin\documents\visual studio 2015\Projects\OloTest\OloTest\obj\Debug\OloTest.csprojResolveAssemblyReference.cache
+c:\users\joepoulin\documents\visual studio 2015\Projects\OloTest\OloTest\obj\Debug\OloTest.exe
+c:\users\joepoulin\documents\visual studio 2015\Projects\OloTest\OloTest\obj\Debug\OloTest.pdb
